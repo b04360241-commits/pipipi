@@ -1,0 +1,1256 @@
+{
+  "cultura_general": {
+    "facil": {
+      "5": [
+        {
+          "pregunta": "¿Cuál es la capital de Francia?",
+          "opciones": ["Madrid", "Roma", "París", "Berlín"],
+          "respuesta": "París"
+        },
+        {
+          "pregunta": "¿Cuántos días tiene una semana?",
+          "opciones": ["5", "6", "7", "8"],
+          "respuesta": "7"
+        },
+        {
+          "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+          "opciones": ["Venus", "Marte", "Júpiter", "Saturno"],
+          "respuesta": "Marte"
+        },
+        {
+          "pregunta": "¿Cuál es el océano más grande del mundo?",
+          "opciones": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+          "respuesta": "Pacífico"
+        },
+        {
+          "pregunta": "¿Qué moneda se usa en Estados Unidos?",
+          "opciones": ["Euro", "Peso", "Dólar", "Libra"],
+          "respuesta": "Dólar"
+        }
+      ],
+      "15": [
+        {
+          "pregunta": "¿Cuál es el animal terrestre más rápido?",
+          "opciones": ["León", "Guepardo", "Tigre", "Caballo"],
+          "respuesta": "Guepardo"
+        },
+        {
+          "pregunta": "¿Qué idioma se habla principalmente en Brasil?",
+          "opciones": ["Español", "Portugués", "Francés", "Inglés"],
+          "respuesta": "Portugués"
+        },
+        {
+          "pregunta": "¿Cuántos continentes hay en la Tierra?",
+          "opciones": ["5", "6", "7", "8"],
+          "respuesta": "7"
+        },
+        {
+          "pregunta": "¿En qué continente está Egipto?",
+          "opciones": ["Asia", "África", "Europa", "Oceanía"],
+          "respuesta": "África"
+        },
+        {
+          "pregunta": "¿Cuál es el metal principal de las latas de refresco?",
+          "opciones": ["Hierro", "Plomo", "Aluminio", "Cobre"],
+          "respuesta": "Aluminio"
+        },
+        {
+          "pregunta": "¿Qué instrumento mide la temperatura?",
+          "opciones": ["Barómetro", "Termómetro", "Anemómetro", "Pluviómetro"],
+          "respuesta": "Termómetro"
+        },
+        {
+          "pregunta": "¿En qué país está la Torre Eiffel?",
+          "opciones": ["Italia", "Francia", "España", "Alemania"],
+          "respuesta": "Francia"
+        },
+        {
+          "pregunta": "¿Cuál es el continente más pequeño?",
+          "opciones": ["Europa", "Oceanía", "África", "América"],
+          "respuesta": "Oceanía"
+        },
+        {
+          "pregunta": "¿Qué gas respiramos para vivir?",
+          "opciones": ["Oxígeno", "Hidrógeno", "Dióxido de carbono", "Nitrógeno"],
+          "respuesta": "Oxígeno"
+        },
+        {
+          "pregunta": "¿Qué día sigue al lunes?",
+          "opciones": ["Miércoles", "Martes", "Jueves", "Domingo"],
+          "respuesta": "Martes"
+        },
+        {
+          "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+          "opciones": ["Inglés", "Español", "Chino mandarín", "Hindi"],
+          "respuesta": "Chino mandarín"
+        },
+        {
+          "pregunta": "¿Qué país tiene forma de bota?",
+          "opciones": ["España", "Italia", "Grecia", "Portugal"],
+          "respuesta": "Italia"
+        },
+        {
+          "pregunta": "¿Qué planeta es el más cercano al Sol?",
+          "opciones": ["Tierra", "Mercurio", "Venus", "Marte"],
+          "respuesta": "Mercurio"
+        },
+        {
+          "pregunta": "¿Qué país inventó el sushi?",
+          "opciones": ["China", "Corea", "Japón", "Tailandia"],
+          "respuesta": "Japón"
+        },
+        {
+          "pregunta": "¿Cuál es la capital de España?",
+          "opciones": ["Madrid", "Barcelona", "Valencia", "Sevilla"],
+          "respuesta": "Madrid"
+        }
+      ],
+      "20": [
+        {
+          "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+          "opciones": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+          "respuesta": "Júpiter"
+        },
+        {
+          "pregunta": "¿Qué océano está en la costa de Chile?",
+          "opciones": ["Atlántico", "Pacífico", "Índico", "Ártico"],
+          "respuesta": "Pacífico"
+        },
+        {
+          "pregunta": "¿Qué instrumento musical tiene teclas blancas y negras?",
+          "opciones": ["Piano", "Violín", "Flauta", "Guitarra"],
+          "respuesta": "Piano"
+        },
+        {
+          "pregunta": "¿Qué día es el primero de la semana?",
+          "opciones": ["Domingo", "Lunes", "Sábado", "Viernes"],
+          "respuesta": "Lunes"
+        },
+        {
+          "pregunta": "¿Qué país es famoso por la muralla china?",
+          "opciones": ["Japón", "India", "China", "Corea"],
+          "respuesta": "China"
+        },
+        {
+          "pregunta": "¿Cuál es la moneda de México?",
+          "opciones": ["Peso", "Dólar", "Euro", "Sol"],
+          "respuesta": "Peso"
+        },
+        {
+          "pregunta": "¿Qué animal pone huevos?",
+          "opciones": ["Perro", "Gato", "Gallina", "Caballo"],
+          "respuesta": "Gallina"
+        },
+        {
+          "pregunta": "¿Cuál es el país más grande del mundo?",
+          "opciones": ["China", "Rusia", "Canadá", "Brasil"],
+          "respuesta": "Rusia"
+        },
+        {
+          "pregunta": "¿Cuál es la capital de Argentina?",
+          "opciones": ["Lima", "Montevideo", "Buenos Aires", "Bogotá"],
+          "respuesta": "Buenos Aires"
+        },
+        {
+          "pregunta": "¿Qué gas necesitan las plantas para hacer fotosíntesis?",
+          "opciones": ["Oxígeno", "Dióxido de carbono", "Hidrógeno", "Nitrógeno"],
+          "respuesta": "Dióxido de carbono"
+        },
+        {
+          "pregunta": "¿Cuál es el desierto más grande del mundo?",
+          "opciones": ["Sahara", "Gobi", "Antártico", "Kalahari"],
+          "respuesta": "Antártico"
+        },
+        {
+          "pregunta": "¿Qué continente está al sur de Europa?",
+          "opciones": ["Asia", "África", "Oceanía", "América"],
+          "respuesta": "África"
+        },
+        {
+          "pregunta": "¿Qué país tiene como capital a Ottawa?",
+          "opciones": ["EE.UU.", "Canadá", "Australia", "Inglaterra"],
+          "respuesta": "Canadá"
+        },
+        {
+          "pregunta": "¿Cuál es el océano que rodea a Australia?",
+          "opciones": ["Índico", "Pacífico", "Atlántico", "Ártico"],
+          "respuesta": "Índico y Pacífico"
+        },
+        {
+          "pregunta": "¿Qué invento hizo famoso a Alexander Graham Bell?",
+          "opciones": ["Teléfono", "Radio", "Bombilla", "Automóvil"],
+          "respuesta": "Teléfono"
+        },
+        {
+          "pregunta": "¿Cuál es la capital de Alemania?",
+          "opciones": ["Múnich", "Berlín", "Hamburgo", "Colonia"],
+          "respuesta": "Berlín"
+        },
+        {
+          "pregunta": "¿Qué país tiene como capital a Lisboa?",
+          "opciones": ["España", "Portugal", "Francia", "Italia"],
+          "respuesta": "Portugal"
+        },
+        {
+          "pregunta": "¿Qué gas compone la mayor parte del aire?",
+          "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Hidrógeno"],
+          "respuesta": "Nitrógeno"
+        },
+        {
+          "pregunta": "¿Qué planeta es el más alejado del Sol?",
+          "opciones": ["Urano", "Neptuno", "Saturno", "Plutón"],
+          "respuesta": "Neptuno"
+        },
+        {
+          "pregunta": "¿Qué país inventó la pólvora?",
+          "opciones": ["Japón", "China", "India", "Egipto"],
+          "respuesta": "China"
+        }
+      ]
+    },
+
+    "medio": {
+      "5": [
+        {
+          "pregunta": "¿Qué año comenzó la Segunda Guerra Mundial?",
+          "opciones": ["1935", "1939", "1941", "1945"],
+          "respuesta": "1939"
+        },
+        {
+          "pregunta": "¿Quién pintó la Mona Lisa?",
+          "opciones": ["Miguel Ángel", "Picasso", "Leonardo da Vinci", "Van Gogh"],
+          "respuesta": "Leonardo da Vinci"
+        },
+        {
+          "pregunta": "¿Cuál es el río más largo del mundo?",
+          "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+          "respuesta": "Amazonas"
+        },
+        {
+          "pregunta": "¿Qué país fue el primero en llegar a la Luna?",
+          "opciones": ["EE.UU.", "Rusia", "China", "Japón"],
+          "respuesta": "EE.UU."
+        },
+        {
+          "pregunta": "¿Cuál es el edificio más alto del mundo en 2025?",
+          "opciones": ["Empire State", "Burj Khalifa", "Shanghai Tower", "One World Trade Center"],
+          "respuesta": "Burj Khalifa"
+        }
+      ],
+    "15": [
+      {
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": ["Sídney", "Melbourne", "Canberra", "Perth"],
+        "respuesta": "Canberra"
+      },
+      {
+        "pregunta": "¿En qué año descubrió Colón América?",
+        "opciones": ["1492", "1500", "1453", "1512"],
+        "respuesta": "1492"
+      },
+      {
+        "pregunta": "¿Cuál es el metal cuyo símbolo químico es Fe?",
+        "opciones": ["Plata", "Hierro", "Cobre", "Estaño"],
+        "respuesta": "Hierro"
+      },
+      {
+        "pregunta": "¿Qué país es conocido como 'La tierra del sol naciente'?",
+        "opciones": ["China", "Japón", "Corea del Sur", "Vietnam"],
+        "respuesta": "Japón"
+      },
+      {
+        "pregunta": "¿Cuál es el océano más pequeño del mundo?",
+        "opciones": ["Pacífico", "Atlántico", "Índico", "Ártico"],
+        "respuesta": "Ártico"
+      },
+      {
+        "pregunta": "¿Qué científico propuso las tres leyes del movimiento?",
+        "opciones": ["Einstein", "Newton", "Galileo", "Kepler"],
+        "respuesta": "Newton"
+      },
+      {
+        "pregunta": "¿En qué país se encuentra la ciudad de Petra?",
+        "opciones": ["Egipto", "Jordania", "Grecia", "Irak"],
+        "respuesta": "Jordania"
+      },
+      {
+        "pregunta": "¿Cuál es el idioma oficial de Egipto?",
+        "opciones": ["Árabe", "Inglés", "Francés", "Hebreo"],
+        "respuesta": "Árabe"
+      },
+      {
+        "pregunta": "¿En qué país se usó por primera vez la pólvora?",
+        "opciones": ["India", "China", "Japón", "Corea"],
+        "respuesta": "China"
+      },
+      {
+        "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+        "opciones": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "respuesta": "George Washington"
+      },
+      {
+        "pregunta": "¿En qué país está ubicada la ciudad de Estambul?",
+        "opciones": ["Grecia", "Turquía", "Egipto", "Irán"],
+        "respuesta": "Turquía"
+      },
+      {
+        "pregunta": "¿Cuál es el elemento químico más abundante en el universo?",
+        "opciones": ["Oxígeno", "Hidrógeno", "Carbono", "Helio"],
+        "respuesta": "Hidrógeno"
+      },
+      {
+        "pregunta": "¿Qué escritor creó al personaje de Sherlock Holmes?",
+        "opciones": ["Agatha Christie", "Arthur Conan Doyle", "Charles Dickens", "Mark Twain"],
+        "respuesta": "Arthur Conan Doyle"
+      },
+      {
+        "pregunta": "¿Qué cordillera separa a Europa de Asia?",
+        "opciones": ["Andes", "Urales", "Alpes", "Himalaya"],
+        "respuesta": "Urales"
+      },
+      {
+        "pregunta": "¿Qué país tiene la forma de una 'bota'?",
+        "opciones": ["España", "Italia", "Portugal", "Grecia"],
+        "respuesta": "Italia"
+      }
+    ],
+    "20": [
+      {
+        "pregunta": "¿Cuál es la capital de Canadá?",
+        "opciones": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "respuesta": "Ottawa"
+      },
+      {
+        "pregunta": "¿Qué guerra terminó con el Tratado de Versalles?",
+        "opciones": ["Primera Guerra Mundial", "Segunda Guerra Mundial", "Guerra Fría", "Guerra de Corea"],
+        "respuesta": "Primera Guerra Mundial"
+      },
+      {
+        "pregunta": "¿Quién fue el primer hombre en pisar la Luna?",
+        "opciones": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "Yuri Gagarin"],
+        "respuesta": "Neil Armstrong"
+      },
+      {
+        "pregunta": "¿Cuál es el país más poblado de África?",
+        "opciones": ["Sudáfrica", "Nigeria", "Egipto", "Etiopía"],
+        "respuesta": "Nigeria"
+      },
+      {
+        "pregunta": "¿Qué nombre recibe el triángulo geográfico peligroso en el Atlántico?",
+        "opciones": ["Triángulo de las Bermudas", "Triángulo del Dragón", "Círculo de Fuego", "Mar Muerto"],
+        "respuesta": "Triángulo de las Bermudas"
+      },
+      {
+        "pregunta": "¿Cuál es el país con mayor extensión territorial después de Rusia?",
+        "opciones": ["China", "EE.UU.", "Canadá", "Brasil"],
+        "respuesta": "Canadá"
+      },
+      {
+        "pregunta": "¿Qué pintor es famoso por cortarse una oreja?",
+        "opciones": ["Picasso", "Van Gogh", "Dalí", "Monet"],
+        "respuesta": "Van Gogh"
+      },
+      {
+        "pregunta": "¿Qué civilización construyó Machu Picchu?",
+        "opciones": ["Aztecas", "Mayas", "Incas", "Olmecas"],
+        "respuesta": "Incas"
+      },
+      {
+        "pregunta": "¿En qué país nació Nikola Tesla?",
+        "opciones": ["Croacia", "Serbia", "Eslovenia", "Hungría"],
+        "respuesta": "Croacia"
+      },
+      {
+        "pregunta": "¿Qué país tiene más islas en el mundo?",
+        "opciones": ["Filipinas", "Suecia", "Indonesia", "Japón"],
+        "respuesta": "Suecia"
+      },
+      {
+        "pregunta": "¿Qué ciudad fue destruida por la erupción del Vesubio en el año 79 d.C.?",
+        "opciones": ["Roma", "Pompeya", "Atenas", "Cartago"],
+        "respuesta": "Pompeya"
+      },
+      {
+        "pregunta": "¿Cuál es la capital de Sudáfrica?",
+        "opciones": ["Pretoria", "Ciudad del Cabo", "Johannesburgo", "Durban"],
+        "respuesta": "Pretoria"
+      },
+      {
+        "pregunta": "¿Qué invento se atribuye a Gutenberg?",
+        "opciones": ["Imprenta", "Telescopio", "Reloj", "Microscopio"],
+        "respuesta": "Imprenta"
+      },
+      {
+        "pregunta": "¿Cuál es el río más largo de Europa?",
+        "opciones": ["Danubio", "Volga", "Rin", "Loira"],
+        "respuesta": "Volga"
+      },
+      {
+        "pregunta": "¿Qué país colonizó gran parte de Sudamérica?",
+        "opciones": ["Inglaterra", "Francia", "España", "Portugal"],
+        "respuesta": "España"
+      },
+      {
+        "pregunta": "¿Qué científico formuló la ley de la gravitación universal?",
+        "opciones": ["Einstein", "Newton", "Pascal", "Descartes"],
+        "respuesta": "Newton"
+      },
+      {
+        "pregunta": "¿Qué país fue conocido como Persia?",
+        "opciones": ["Irak", "Irán", "Turquía", "Afganistán"],
+        "respuesta": "Irán"
+      },
+      {
+        "pregunta": "¿Qué filósofo escribió 'La República'?",
+        "opciones": ["Platón", "Aristóteles", "Sócrates", "Epicuro"],
+        "respuesta": "Platón"
+      },
+      {
+        "pregunta": "¿Qué guerra enfrentó a Atenas y Esparta?",
+        "opciones": ["Guerra Médica", "Guerra del Peloponeso", "Guerras Púnicas", "Guerras Macedónicas"],
+        "respuesta": "Guerra del Peloponeso"
+      },
+      {
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "opciones": ["Everest", "K2", "Kilimanjaro", "Makalu"],
+        "respuesta": "Everest"
+       }
+      ]
+    },
+    "dificil": {
+      "5": [
+        {
+          "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
+          "opciones": ["395 d.C.", "410 d.C.", "476 d.C.", "500 d.C."],
+          "respuesta": "476 d.C."
+        },
+        {
+          "pregunta": "¿Quién escribió 'La Divina Comedia'?",
+          "opciones": ["Dante Alighieri", "Cervantes", "Shakespeare", "Boccaccio"],
+          "respuesta": "Dante Alighieri"
+        },
+        {
+          "pregunta": "¿Qué físico formuló la teoría de la relatividad?",
+          "opciones": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+          "respuesta": "Albert Einstein"
+        },
+        {
+          "pregunta": "¿Cuál es el país más poblado del mundo?",
+          "opciones": ["India", "China", "EE.UU.", "Indonesia"],
+          "respuesta": "India"
+        },
+        {
+          "pregunta": "¿Quién fue el primer emperador romano?",
+          "opciones": ["Julio César", "Augusto", "Nerón", "Trajano"],
+          "respuesta": "Augusto"
+        }
+      ],
+    "15": [
+      {
+        "pregunta": "¿Quién fue el último zar de Rusia?",
+        "opciones": ["Nicolás II", "Pedro el Grande", "Alejandro III", "Iván IV"],
+        "respuesta": "Nicolás II"
+      },
+      {
+        "pregunta": "¿Qué país fue conocido como Siam?",
+        "opciones": ["Vietnam", "Tailandia", "Laos", "Camboya"],
+        "respuesta": "Tailandia"
+      },
+      {
+        "pregunta": "¿En qué año comenzó la Revolución Francesa?",
+        "opciones": ["1776", "1789", "1804", "1815"],
+        "respuesta": "1789"
+      },
+      {
+        "pregunta": "¿Qué matemático es considerado el 'padre de la geometría'?",
+        "opciones": ["Euclides", "Pitágoras", "Arquímedes", "Descartes"],
+        "respuesta": "Euclides"
+      },
+      {
+        "pregunta": "¿Quién escribió 'Crimen y castigo'?",
+        "opciones": ["Tolstói", "Dostoievski", "Gógol", "Chejov"],
+        "respuesta": "Dostoievski"
+      },
+      {
+        "pregunta": "¿Qué civilización usaba los quipus para registrar datos?",
+        "opciones": ["Mayas", "Aztecas", "Incas", "Olmecas"],
+        "respuesta": "Incas"
+      },
+      {
+        "pregunta": "¿En qué ciudad se firmó el Tratado de Maastricht?",
+        "opciones": ["Bruselas", "Maastricht", "París", "Roma"],
+        "respuesta": "Maastricht"
+      },
+      {
+        "pregunta": "¿Cuál es la capital de Mongolia?",
+        "opciones": ["Ulán Bator", "Astana", "Taskent", "Bakú"],
+        "respuesta": "Ulán Bator"
+      },
+      {
+        "pregunta": "¿Quién escribió 'El Príncipe'?",
+        "opciones": ["Maquiavelo", "Rousseau", "Voltaire", "Montesquieu"],
+        "respuesta": "Maquiavelo"
+      },
+      {
+        "pregunta": "¿Cuál fue el primer país en aprobar el voto femenino?",
+        "opciones": ["Reino Unido", "Nueva Zelanda", "EE.UU.", "Australia"],
+        "respuesta": "Nueva Zelanda"
+      },
+      {
+        "pregunta": "¿Qué científico descubrió los rayos X?",
+        "opciones": ["Curie", "Röntgen", "Tesla", "Faraday"],
+        "respuesta": "Röntgen"
+      },
+      {
+        "pregunta": "¿Cuál es la capital de Kazajistán?",
+        "opciones": ["Astana (Astaná)", "Almaty", "Taskent", "Bakú"],
+        "respuesta": "Astana (Astaná)"
+      },
+      {
+        "pregunta": "¿Qué filósofo alemán escribió 'Así habló Zaratustra'?",
+        "opciones": ["Nietzsche", "Hegel", "Kant", "Schopenhauer"],
+        "respuesta": "Nietzsche"
+      },
+      {
+        "pregunta": "¿Qué civilización construyó Chichén Itzá?",
+        "opciones": ["Aztecas", "Mayas", "Incas", "Olmecas"],
+        "respuesta": "Mayas"
+      },
+      {
+        "pregunta": "¿Qué país tiene más premios Nobel de Literatura?",
+        "opciones": ["Francia", "EE.UU.", "Reino Unido", "España"],
+        "respuesta": "Francia"
+      }
+    ],
+    "20": [
+      {
+        "pregunta": "¿En qué año cayó Constantinopla?",
+        "opciones": ["1204", "1299", "1453", "1517"],
+        "respuesta": "1453"
+      },
+      {
+        "pregunta": "¿Quién fue el primer faraón de Egipto?",
+        "opciones": ["Keops", "Menes", "Ramsés II", "Tutankamón"],
+        "respuesta": "Menes"
+      },
+      {
+        "pregunta": "¿Qué país inventó el sistema de escritura cuneiforme?",
+        "opciones": ["Egipto", "Mesopotamia", "India", "China"],
+        "respuesta": "Mesopotamia"
+      },
+      {
+        "pregunta": "¿Quién pintó 'La escuela de Atenas'?",
+        "opciones": ["Leonardo da Vinci", "Rafael", "Miguel Ángel", "Caravaggio"],
+        "respuesta": "Rafael"
+      },
+      {
+        "pregunta": "¿Qué emperador romano legalizó el cristianismo?",
+        "opciones": ["Nerón", "Constantino", "Trajano", "Julio César"],
+        "respuesta": "Constantino"
+      },
+      {
+        "pregunta": "¿Cuál es la capital de Bután?",
+        "opciones": ["Katmandú", "Thimphu", "Colombo", "Dhaka"],
+        "respuesta": "Thimphu"
+      },
+      {
+        "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "opciones": ["Lope de Vega", "Cervantes", "Quevedo", "Góngora"],
+        "respuesta": "Cervantes"
+      },
+      {
+        "pregunta": "¿Cuál es el lago más profundo del mundo?",
+        "opciones": ["Lago Baikal", "Lago Victoria", "Lago Tanganica", "Lago Titicaca"],
+        "respuesta": "Lago Baikal"
+      },
+      {
+        "pregunta": "¿Qué país tiene la mayor cantidad de volcanes activos?",
+        "opciones": ["Indonesia", "Japón", "Chile", "Islandia"],
+        "respuesta": "Indonesia"
+      },
+      {
+        "pregunta": "¿En qué ciudad nació Marco Polo?",
+        "opciones": ["Roma", "Venecia", "Florencia", "Génova"],
+        "respuesta": "Venecia"
+      },
+      {
+        "pregunta": "¿Quién formuló las leyes del electromagnetismo?",
+        "opciones": ["Maxwell", "Tesla", "Faraday", "Gauss"],
+        "respuesta": "Maxwell"
+      },
+      {
+        "pregunta": "¿Cuál es la capital de Lituania?",
+        "opciones": ["Riga", "Tallin", "Vilna (Vilnius)", "Varsovia"],
+        "respuesta": "Vilna (Vilnius)"
+      },
+      {
+        "pregunta": "¿Qué rey inglés tuvo seis esposas?",
+        "opciones": ["Enrique VIII", "Ricardo III", "Juan I", "Carlos I"],
+        "respuesta": "Enrique VIII"
+      },
+      {
+        "pregunta": "¿Qué científico desarrolló la teoría heliocéntrica?",
+        "opciones": ["Copérnico", "Galileo", "Kepler", "Newton"],
+        "respuesta": "Copérnico"
+      },
+      {
+        "pregunta": "¿Cuál fue la capital del Imperio Inca?",
+        "opciones": ["Quito", "Cuzco", "Lima", "La Paz"],
+        "respuesta": "Cuzco"
+      },
+      {
+        "pregunta": "¿En qué país nació el filósofo Immanuel Kant?",
+        "opciones": ["Francia", "Alemania", "Polonia", "Austria"],
+        "respuesta": "Alemania"
+      },
+      {
+        "pregunta": "¿Qué batalla marcó el fin de Napoleón Bonaparte?",
+        "opciones": ["Austerlitz", "Borodino", "Waterloo", "Leipzig"],
+        "respuesta": "Waterloo"
+      },
+      {
+        "pregunta": "¿Qué arquitecto diseñó la Sagrada Familia?",
+        "opciones": ["Gaudí", "Calatrava", "Moneo", "Venturi"],
+        "respuesta": "Gaudí"
+      },
+      {
+        "pregunta": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+        "opciones": ["Platón", "Sócrates", "Aristóteles", "Epicuro"],
+        "respuesta": "Aristóteles"
+      },
+      {
+        "pregunta": "¿En qué año se fundó la ONU?",
+        "opciones": ["1919", "1945", "1950", "1939"],
+        "respuesta": "1945"
+      }
+    ]
+  }
+},
+
+  "fauna_flora": {
+    "facil": {
+      "5": [
+        {
+          "pregunta": "¿Qué animal es conocido como el rey de la selva?",
+          "opciones": ["León", "Tigre", "Elefante", "Gorila"],
+          "respuesta": "León"
+        },
+        {
+          "pregunta": "¿De qué color son las hojas de la mayoría de las plantas?",
+          "opciones": ["Rojo", "Verde", "Amarillo", "Azul"],
+          "respuesta": "Verde"
+        },
+        {
+          "pregunta": "¿Cuál de estos animales puede volar?",
+          "opciones": ["Gato", "Murciélago", "Perro", "Caballo"],
+          "respuesta": "Murciélago"
+        },
+        {
+          "pregunta": "¿Qué fruta viene de un cactus?",
+          "opciones": ["Sandía", "Higo chumbo", "Plátano", "Mango"],
+          "respuesta": "Higo chumbo"
+        },
+        {
+          "pregunta": "¿Qué animal pone huevos?",
+          "opciones": ["Gato", "Gallina", "Perro", "León"],
+          "respuesta": "Gallina"
+        }
+      ],
+      "15": [
+        {
+          "pregunta": "¿Cuál es el mamífero más grande del mundo?",
+          "opciones": ["Elefante", "Ballena azul", "Jirafa", "Hipopótamo"],
+          "respuesta": "Ballena azul"
+        },
+        {
+          "pregunta": "¿Qué gas producen las plantas durante la fotosíntesis?",
+          "opciones": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Metano"],
+          "respuesta": "Oxígeno"
+        },
+        {
+          "pregunta": "¿Qué tipo de animal es una rana?",
+          "opciones": ["Mamífero", "Reptil", "Anfibio", "Ave"],
+          "respuesta": "Anfibio"
+        },
+        {
+          "pregunta": "¿Cuál es la flor nacional de Japón?",
+          "opciones": ["Lirio", "Cerezo", "Rosa", "Tulipán"],
+          "respuesta": "Cerezo"
+        },
+        {
+          "pregunta": "¿Qué parte de la planta absorbe agua y nutrientes?",
+          "opciones": ["Hojas", "Flores", "Raíces", "Tallo"],
+          "respuesta": "Raíces"
+        },
+        {
+          "pregunta": "¿Cuál de estos animales es un marsupial?",
+          "opciones": ["Canguro", "Oso", "Zorro", "Gato"],
+          "respuesta": "Canguro"
+        },
+        {
+          "pregunta": "¿Qué insecto produce miel?",
+          "opciones": ["Hormiga", "Mosquito", "Abeja", "Grillo"],
+          "respuesta": "Abeja"
+        },
+        {
+          "pregunta": "¿Dónde crecen los manglares?",
+          "opciones": ["Desiertos", "Costas", "Montañas", "Praderas"],
+          "respuesta": "Costas"
+        },
+        {
+          "pregunta": "¿Qué ave no puede volar?",
+          "opciones": ["Águila", "Pingüino", "Gaviota", "Paloma"],
+          "respuesta": "Pingüino"
+        },
+        {
+          "pregunta": "¿Qué animal es símbolo de la sabiduría?",
+          "opciones": ["Perro", "Lechuza", "Gato", "Caballo"],
+          "respuesta": "Lechuza"
+        },
+        {
+          "pregunta": "¿Qué parte del cactus almacena agua?",
+          "opciones": ["Raíces", "Tallo", "Flores", "Espinas"],
+          "respuesta": "Tallo"
+        },
+        {
+          "pregunta": "¿Cuál es el animal terrestre más rápido?",
+          "opciones": ["León", "Tigre", "Guepardo", "Caballo"],
+          "respuesta": "Guepardo"
+        },
+        {
+          "pregunta": "¿Qué árbol produce bellotas?",
+          "opciones": ["Olivo", "Pino", "Roble", "Abeto"],
+          "respuesta": "Roble"
+        },
+        {
+          "pregunta": "¿Qué parte de la planta produce semillas?",
+          "opciones": ["Hojas", "Flores", "Raíces", "Tallo"],
+          "respuesta": "Flores"
+        },
+        {
+          "pregunta": "¿Qué animal vive en colonias organizadas con una reina?",
+          "opciones": ["Hormiga", "Ratón", "Murciélago", "Zorro"],
+          "respuesta": "Hormiga"
+        }
+      ],
+      "20": [
+        {
+          "pregunta": "¿Qué animal es capaz de cambiar de color para camuflarse?",
+          "opciones": ["Camaleón", "Gato", "Conejo", "Perro"],
+          "respuesta": "Camaleón"
+        },
+        {
+          "pregunta": "¿Cuál es la planta más alta del mundo?",
+          "opciones": ["Pino", "Secuoya", "Bambú", "Roble"],
+          "respuesta": "Secuoya"
+        },
+        {
+          "pregunta": "¿Cuál es el ave más grande del mundo?",
+          "opciones": ["Cóndor", "Avestruz", "Águila real", "Pelícano"],
+          "respuesta": "Avestruz"
+        },
+        {
+          "pregunta": "¿Qué animal marino tiene ocho brazos?",
+          "opciones": ["Pulpo", "Cangrejo", "Medusa", "Estrella de mar"],
+          "respuesta": "Pulpo"
+        },
+        {
+          "pregunta": "¿Qué tipo de hojas tienen las coníferas?",
+          "opciones": ["Agujas", "Planas", "Grandes", "Redondas"],
+          "respuesta": "Agujas"
+        },
+        {
+          "pregunta": "¿Qué animal se conoce por su larga trompa?",
+          "opciones": ["Rinoceronte", "Elefante", "Jirafa", "Hipopótamo"],
+          "respuesta": "Elefante"
+        },
+        {
+          "pregunta": "¿Qué flor se asocia con los Países Bajos?",
+          "opciones": ["Tulipán", "Rosa", "Girasol", "Orquídea"],
+          "respuesta": "Tulipán"
+        },
+        {
+          "pregunta": "¿Qué animal es el símbolo de WWF?",
+          "opciones": ["Delfín", "Panda", "Águila", "Tigre"],
+          "respuesta": "Panda"
+        },
+        {
+          "pregunta": "¿Qué fruta crece en palmeras?",
+          "opciones": ["Manzana", "Coco", "Pera", "Durazno"],
+          "respuesta": "Coco"
+        },
+        {
+          "pregunta": "¿Qué animal pone huevos y tiene caparazón?",
+          "opciones": ["Lagarto", "Serpiente", "Tortuga", "Cocodrilo"],
+          "respuesta": "Tortuga"
+        },
+        {
+          "pregunta": "¿Qué parte de la planta realiza la fotosíntesis?",
+          "opciones": ["Flores", "Raíces", "Hojas", "Frutos"],
+          "respuesta": "Hojas"
+        },
+        {
+          "pregunta": "¿Qué mamífero marino es conocido por sus saltos?",
+          "opciones": ["Ballena", "Delfín", "Foca", "Morsa"],
+          "respuesta": "Delfín"
+        },
+        {
+          "pregunta": "¿Qué árbol produce aceitunas?",
+          "opciones": ["Olivo", "Roble", "Almendro", "Naranjo"],
+          "respuesta": "Olivo"
+        },
+        {
+          "pregunta": "¿Qué felino vive en la nieve?",
+          "opciones": ["Leopardo de las nieves", "Puma", "León", "Jaguar"],
+          "respuesta": "Leopardo de las nieves"
+        },
+        {
+          "pregunta": "¿Qué planta se usa para hacer tequila?",
+          "opciones": ["Agave", "Cactus", "Maíz", "Trigo"],
+          "respuesta": "Agave"
+        },
+        {
+          "pregunta": "¿Qué animal tiene el cuello más largo?",
+          "opciones": ["Elefante", "Jirafa", "Camello", "Caballo"],
+          "respuesta": "Jirafa"
+        },
+        {
+          "pregunta": "¿Qué fruta es amarilla y rica en potasio?",
+          "opciones": ["Plátano", "Manzana", "Pera", "Naranja"],
+          "respuesta": "Plátano"
+        },
+        {
+          "pregunta": "¿Qué animal es famoso por construir presas?",
+          "opciones": ["Castor", "Nutria", "Ratón", "Erizo"],
+          "respuesta": "Castor"
+        },
+        {
+          "pregunta": "¿Qué flor está asociada con México en el Día de Muertos?",
+          "opciones": ["Clavel", "Cempasúchil", "Rosa", "Girasol"],
+          "respuesta": "Cempasúchil"
+        },
+        {
+          "pregunta": "¿Qué animal tiene una bolsa para llevar a sus crías?",
+          "opciones": ["Canguro", "Perro", "Gato", "Caballo"],
+          "respuesta": "Canguro"
+       }
+      ]
+    },
+    "medio": {
+      "5": [
+        {
+          "pregunta": "¿Cuál es el animal terrestre con la mordida más fuerte?",
+          "opciones": ["León", "Cocodrilo del Nilo", "Hiena", "Tigre"],
+          "respuesta": "Cocodrilo del Nilo"
+        },
+        {
+          "pregunta": "¿Qué árbol puede vivir miles de años?",
+          "opciones": ["Pino", "Olivo", "Secuoya", "Roble"],
+          "respuesta": "Secuoya"
+        },
+        {
+          "pregunta": "¿Qué animal pone los huevos más grandes del mundo?",
+          "opciones": ["Avestruz", "Pingüino", "Águila", "Pato"],
+          "respuesta": "Avestruz"
+        },
+        {
+          "pregunta": "¿Qué animal puede regenerar partes de su cuerpo?",
+          "opciones": ["Lagartija", "Pulpo", "Estrella de mar", "Cangrejo"],
+          "respuesta": "Estrella de mar"
+        },
+        {
+          "pregunta": "¿Qué planta carnívora es capaz de atrapar insectos?",
+          "opciones": ["Orquídea", "Rosa", "Venus atrapamoscas", "Girasol"],
+          "respuesta": "Venus atrapamoscas"
+        }
+      ],
+      "15": [
+        {
+          "pregunta": "¿Qué árbol produce el corcho?",
+          "opciones": ["Roble alcornoque", "Olivo", "Pino", "Cedro"],
+          "respuesta": "Roble alcornoque"
+        },
+        {
+          "pregunta": "¿Qué animal marino tiene un esqueleto de cartílago en lugar de huesos?",
+          "opciones": ["Tiburón", "Pulpo", "Ballena", "Atún"],
+          "respuesta": "Tiburón"
+        },
+        {
+          "pregunta": "¿Cuál es el ave con mayor envergadura de alas?",
+          "opciones": ["Cóndor andino", "Albatros errante", "Pelícano", "Águila real"],
+          "respuesta": "Albatros errante"
+        },
+        {
+          "pregunta": "¿Qué nombre recibe el hábitat natural de los canguros?",
+          "opciones": ["Sabana", "Desierto", "Outback", "Selva"],
+          "respuesta": "Outback"
+        },
+        {
+          "pregunta": "¿Qué planta se asocia con la buena suerte y suele tener cuatro hojas?",
+          "opciones": ["Trébol", "Helecho", "Rosa", "Albahaca"],
+          "respuesta": "Trébol"
+        },
+        {
+          "pregunta": "¿Cuál es el ave nacional de Estados Unidos?",
+          "opciones": ["Águila real", "Águila calva", "Búho", "Cóndor"],
+          "respuesta": "Águila calva"
+        },
+        {
+          "pregunta": "¿Qué insecto es considerado el más fuerte en proporción a su tamaño?",
+          "opciones": ["Hormiga", "Escarabajo rinoceronte", "Grillo", "Abeja"],
+          "respuesta": "Escarabajo rinoceronte"
+        },
+        {
+          "pregunta": "¿Qué flor inspiró a Vincent Van Gogh en varias de sus pinturas?",
+          "opciones": ["Girasol", "Rosa", "Lirio", "Orquídea"],
+          "respuesta": "Girasol"
+        },
+        {
+          "pregunta": "¿Qué animal puede dormir hasta 20 horas al día?",
+          "opciones": ["Perezoso", "Koala", "Oso panda", "Gato doméstico"],
+          "respuesta": "Koala"
+        },
+        {
+          "pregunta": "¿Qué planta es considerada la más venenosa del mundo?",
+          "opciones": ["Ricinus communis (ricino)", "Belladona", "Hiedra venenosa", "Cicuta"],
+          "respuesta": "Ricinus communis (ricino)"
+        },
+        {
+          "pregunta": "¿Qué pez puede inflarse como mecanismo de defensa?",
+          "opciones": ["Pez globo", "Caballito de mar", "Sardina", "Tiburón"],
+          "respuesta": "Pez globo"
+        },
+        {
+          "pregunta": "¿Qué nombre recibe el bosque caracterizado por árboles de hoja caduca?",
+          "opciones": ["Bosque templado", "Selva", "Taiga", "Sabana"],
+          "respuesta": "Bosque templado"
+        },
+        {
+          "pregunta": "¿Qué animal produce la seda más famosa?",
+          "opciones": ["Araña", "Oruga de seda", "Avispa", "Escarabajo"],
+          "respuesta": "Oruga de seda"
+        },
+        {
+          "pregunta": "¿Qué animal marino es conocido como 'el unicornio del mar'?",
+          "opciones": ["Narval", "Beluga", "Orca", "Delfín"],
+          "respuesta": "Narval"
+        },
+        {
+          "pregunta": "¿Qué parte de la flor contiene el polen?",
+          "opciones": ["Estambres", "Pétalos", "Sépalos", "Pistilo"],
+          "respuesta": "Estambres"
+        }
+      ],
+      "20": [
+        {
+          "pregunta": "¿Qué especie de árbol es conocida como el más antiguo del mundo?",
+          "opciones": ["Pino Bristlecone", "Secuoya", "Olivo", "Baobab"],
+          "respuesta": "Pino Bristlecone"
+        },
+        {
+          "pregunta": "¿Qué animal marino tiene tres corazones?",
+          "opciones": ["Pulpo", "Calamar", "Tiburón", "Medusa"],
+          "respuesta": "Pulpo"
+        },
+        {
+          "pregunta": "¿Qué flor se utiliza para hacer tequila?",
+          "opciones": ["Agave azul", "Cactus", "Maíz", "Trigo"],
+          "respuesta": "Agave azul"
+        },
+        {
+          "pregunta": "¿Qué animal marino es famoso por cantar?",
+          "opciones": ["Delfín", "Ballena jorobada", "Foca", "Morsa"],
+          "respuesta": "Ballena jorobada"
+        },
+        {
+          "pregunta": "¿Qué árbol es considerado sagrado en la India?",
+          "opciones": ["Banyan", "Pino", "Abedul", "Olivo"],
+          "respuesta": "Banyan"
+        },
+        {
+          "pregunta": "¿Qué animal puede caminar por el fondo del mar y cambiar de caparazón?",
+          "opciones": ["Cangrejo ermitaño", "Langosta", "Calamar", "Estrella de mar"],
+          "respuesta": "Cangrejo ermitaño"
+        },
+        {
+          "pregunta": "¿Qué flor se abre y se cierra con la luz del sol?",
+          "opciones": ["Girasol", "Diente de león", "Tulipán", "Lirio"],
+          "respuesta": "Tulipán"
+        },
+        {
+          "pregunta": "¿Qué especie de oso se alimenta principalmente de bambú?",
+          "opciones": ["Oso negro", "Oso panda gigante", "Grizzly", "Oso pardo"],
+          "respuesta": "Oso panda gigante"
+        },
+        {
+          "pregunta": "¿Qué tipo de planta es el bambú?",
+          "opciones": ["Árbol", "Hierba", "Arbusto", "Helecho"],
+          "respuesta": "Hierba"
+        },
+        {
+          "pregunta": "¿Qué animal es capaz de dormir de pie?",
+          "opciones": ["Caballo", "Gato", "Perro", "Oveja"],
+          "respuesta": "Caballo"
+        },
+        {
+          "pregunta": "¿Qué árbol produce las piñas?",
+          "opciones": ["Pino", "Abeto", "Olmo", "Roble"],
+          "respuesta": "Pino"
+        },
+        {
+          "pregunta": "¿Qué animal marino tiene un esqueleto externo llamado exoesqueleto?",
+          "opciones": ["Cangrejo", "Pulpo", "Calamar", "Ballena"],
+          "respuesta": "Cangrejo"
+        },
+        {
+          "pregunta": "¿Qué planta se utiliza para hacer papel en China desde hace siglos?",
+          "opciones": ["Bambú", "Trigo", "Algodón", "Arroz"],
+          "respuesta": "Bambú"
+        },
+        {
+          "pregunta": "¿Qué animal es famoso por su danza de apareamiento?",
+          "opciones": ["Ave del paraíso", "Gorila", "Pavo real", "Flamenco"],
+          "respuesta": "Ave del paraíso"
+        },
+        {
+          "pregunta": "¿Qué flor es símbolo de Francia?",
+          "opciones": ["Lirio", "Girasol", "Rosa", "Clavel"],
+          "respuesta": "Lirio"
+        },
+        {
+          "pregunta": "¿Qué animal puede ver en la oscuridad gracias a su ecolocación?",
+          "opciones": ["Murciélago", "Búho", "Gato", "Zorro"],
+          "respuesta": "Murciélago"
+        },
+        {
+          "pregunta": "¿Qué árbol da almendras?",
+          "opciones": ["Almendro", "Olivo", "Manzano", "Avellano"],
+          "respuesta": "Almendro"
+        },
+        {
+          "pregunta": "¿Qué animal puede regenerar una extremidad perdida?",
+          "opciones": ["Estrella de mar", "Pulpo", "Cangrejo", "Lagartija"],
+          "respuesta": "Estrella de mar"
+        },
+        {
+          "pregunta": "¿Qué planta se considera un símbolo de paz?",
+          "opciones": ["Olivo", "Rosa", "Lirio", "Bambú"],
+          "respuesta": "Olivo"
+        },
+        {
+          "pregunta": "¿Qué ave puede volar hacia atrás?",
+          "opciones": ["Colibrí", "Gaviota", "Águila", "Golondrina"],
+          "respuesta": "Colibrí"
+        }
+      ]
+    },
+    "dificil": {
+      "5": [
+        {
+          "pregunta": "¿Qué animal puede vivir más de 200 años?",
+          "opciones": ["Tortuga gigante", "Ballena azul", "Elefante", "Cocodrilo"],
+          "respuesta": "Tortuga gigante"
+        },
+        {
+          "pregunta": "¿Qué planta produce la especia llamada azafrán?",
+          "opciones": ["Crocus sativus", "Lavanda", "Tulipán", "Hibisco"],
+          "respuesta": "Crocus sativus"
+        },
+        {
+          "pregunta": "¿Qué especie de ave migratoria recorre mayores distancias?",
+          "opciones": ["Golondrina", "Charrán ártico", "Pelícano", "Albatros"],
+          "respuesta": "Charrán ártico"
+        },
+        {
+          "pregunta": "¿Qué animal es capaz de clonar genéticamente a sus crías sin macho?",
+          "opciones": ["Estrella de mar", "Komodo", "Caracol", "Medusa"],
+          "respuesta": "Komodo"
+        },
+        {
+          "pregunta": "¿Qué planta es conocida como 'árbol de la vida' en África?",
+          "opciones": ["Baobab", "Acacia", "Mango", "Palmera"],
+          "respuesta": "Baobab"
+        }
+      ],
+      "15": [
+        {
+          "pregunta": "¿Qué especie de pez puede generar descargas eléctricas?",
+          "opciones": ["Anguila eléctrica", "Tiburón martillo", "Pez espada", "Pez payaso"],
+          "respuesta": "Anguila eléctrica"
+        },
+        {
+          "pregunta": "¿Qué árbol fue sagrado para los druidas celtas?",
+          "opciones": ["Roble", "Olivo", "Pino", "Abeto"],
+          "respuesta": "Roble"
+        },
+        {
+          "pregunta": "¿Qué insecto puede caminar sobre el agua gracias a la tensión superficial?",
+          "opciones": ["Zapatero", "Mosquito", "Hormiga", "Escarabajo"],
+          "respuesta": "Zapatero"
+        },
+        {
+          "pregunta": "¿Qué especie de tortuga puede pesar más de 900 kg?",
+          "opciones": ["Laúd", "Galápagos", "Carey", "Verde"],
+          "respuesta": "Laúd"
+        },
+        {
+          "pregunta": "¿Qué planta es utilizada para producir látex natural?",
+          "opciones": ["Hevea brasiliensis", "Caucho sintético", "Agave", "Cactus"],
+          "respuesta": "Hevea brasiliensis"
+        },
+        {
+          "pregunta": "¿Qué ave puede alcanzar velocidades de hasta 320 km/h en picada?",
+          "opciones": ["Águila real", "Halcón peregrino", "Cóndor", "Búho real"],
+          "respuesta": "Halcón peregrino"
+        },
+        {
+          "pregunta": "¿Qué especie vegetal se conoce como 'planta carnívora tropical'?",
+          "opciones": ["Nepenthes", "Venus atrapamoscas", "Orquídea", "Drosera"],
+          "respuesta": "Nepenthes"
+        },
+        {
+          "pregunta": "¿Qué animal tiene el cerebro más grande en proporción a su cuerpo?",
+          "opciones": ["Delfín", "Pez payaso", "Hormiga", "Calamar gigante"],
+          "respuesta": "Hormiga"
+        },
+        {
+          "pregunta": "¿Qué planta se usaba en Egipto para fabricar papiro?",
+          "opciones": ["Caña de azúcar", "Papiro", "Bambú", "Algodón"],
+          "respuesta": "Papiro"
+        },
+        {
+          "pregunta": "¿Qué anfibio segrega toxinas muy potentes en su piel?",
+          "opciones": ["Rana dardo venenosa", "Sapo común", "Salamandra", "Tritón"],
+          "respuesta": "Rana dardo venenosa"
+        },
+        {
+          "pregunta": "¿Qué animal marino tiene la sangre de color azul?",
+          "opciones": ["Pulpo", "Cangrejo herradura", "Medusa", "Calamar"],
+          "respuesta": "Cangrejo herradura"
+        },
+        {
+          "pregunta": "¿Qué especie de árbol es el símbolo nacional del Líbano?",
+          "opciones": ["Cedro", "Olivo", "Pino", "Roble"],
+          "respuesta": "Cedro"
+        },
+        {
+          "pregunta": "¿Qué pez es capaz de 'caminar' fuera del agua?",
+          "opciones": ["Pez pulmonado", "Pez gato", "Pez león", "Pez sapo"],
+          "respuesta": "Pez pulmonado"
+        },
+        {
+          "pregunta": "¿Qué flor produce opio?",
+          "opciones": ["Amapola", "Orquídea", "Girasol", "Lirio"],
+          "respuesta": "Amapola"
+        },
+        {
+          "pregunta": "¿Qué animal puede resistir años sin agua?",
+          "opciones": ["Escorpión", "Camello", "Rata canguro", "Lagarto"],
+          "respuesta": "Rata canguro"
+        }
+      ],
+  "20": [
+        {
+          "pregunta": "¿Qué especie de medusa es considerada biológicamente inmortal?",
+          "opciones": ["Turritopsis dohrnii", "Medusa luna", "Avispa de mar", "Aurelia aurita"],
+          "respuesta": "Turritopsis dohrnii"
+        },
+        {
+          "pregunta": "¿Qué mamífero tiene el período de gestación más largo?",
+          "opciones": ["Elefante africano", "Ballena azul", "Rinoceronte blanco", "Jirafa"],
+          "respuesta": "Elefante africano"
+        },
+        {
+          "pregunta": "¿Qué animal posee la toxina más letal conocida?",
+          "opciones": ["Rana dardo dorada", "Avispa de mar", "Pez piedra", "Cobra real"],
+          "respuesta": "Rana dardo dorada"
+        },
+        {
+          "pregunta": "¿Qué árbol es famoso por liberar raíces aéreas y formar bosques enteros?",
+          "opciones": ["Banyan", "Baobab", "Pino Bristlecone", "Roble alcornoque"],
+          "respuesta": "Banyan"
+        },
+        {
+          "pregunta": "¿Qué pez puede caminar fuera del agua usando sus aletas?",
+          "opciones": ["Pez pulmonado", "Pez sapo", "Pez gato", "Anguila eléctrica"],
+          "respuesta": "Pez pulmonado"
+        },
+        {
+          "pregunta": "¿Qué flor produce la especia más cara del mundo?",
+          "opciones": ["Crocus sativus (azafrán)", "Vainilla", "Canela", "Clavo"],
+          "respuesta": "Crocus sativus (azafrán)"
+        },
+        {
+          "pregunta": "¿Qué especie de tortuga puede pesar más de 900 kg?",
+          "opciones": ["Tortuga laúd", "Tortuga verde", "Tortuga de Galápagos", "Carey"],
+          "respuesta": "Tortuga laúd"
+        },
+        {
+          "pregunta": "¿Qué insecto puede sobrevivir decapitado durante varios días?",
+          "opciones": ["Cucaracha", "Hormiga", "Escarabajo rinoceronte", "Mantis"],
+          "respuesta": "Cucaracha"
+        },
+        {
+          "pregunta": "¿Qué planta contiene ricina, una de las toxinas más peligrosas?",
+          "opciones": ["Ricinus communis", "Belladona", "Cicuta", "Adelfa"],
+          "respuesta": "Ricinus communis"
+        },
+        {
+          "pregunta": "¿Qué animal marino tiene sangre azul debido a la hemocianina?",
+          "opciones": ["Cangrejo herradura", "Pulpo", "Calamar gigante", "Medusa"],
+          "respuesta": "Cangrejo herradura"
+        },
+        {
+          "pregunta": "¿Qué ave puede volar distancias de hasta 70.000 km al año?",
+          "opciones": ["Charrán ártico", "Albatros errante", "Golondrina", "Pelícano"],
+          "respuesta": "Charrán ártico"
+        },
+        {
+          "pregunta": "¿Qué árbol es considerado el más antiguo del planeta?",
+          "opciones": ["Pino Bristlecone", "Secuoya", "Olivo", "Baobab"],
+          "respuesta": "Pino Bristlecone"
+        },
+        {
+          "pregunta": "¿Qué pez posee un órgano eléctrico que genera hasta 600 voltios?",
+          "opciones": ["Anguila eléctrica", "Pez linterna", "Tiburón martillo", "Raya"],
+          "respuesta": "Anguila eléctrica"
+        },
+        {
+          "pregunta": "¿Qué flor fue símbolo de los Médici en Florencia?",
+          "opciones": ["Lirio", "Tulipán", "Clavel", "Rosa"],
+          "respuesta": "Lirio"
+        },
+        {
+          "pregunta": "¿Qué especie vegetal se conoce como 'planta carnívora tropical'?",
+          "opciones": ["Nepenthes", "Venus atrapamoscas", "Drosera", "Orquídea"],
+          "respuesta": "Nepenthes"
+        },
+        {
+          "pregunta": "¿Qué anfibio produce toxinas letales en su piel y se usa en dardos venenosos?",
+          "opciones": ["Rana dardo venenosa", "Tritón", "Sapo común", "Salamandra"],
+          "respuesta": "Rana dardo venenosa"
+        },
+        {
+          "pregunta": "¿Qué especie de árbol es el símbolo del Líbano?",
+          "opciones": ["Cedro", "Olivo", "Roble", "Pino"],
+          "respuesta": "Cedro"
+        },
+        {
+          "pregunta": "¿Qué insecto tiene alas transparentes y vive solo unas horas?",
+          "opciones": ["Efímera", "Libélula", "Mosquito", "Mariposa monarca"],
+          "respuesta": "Efímera"
+        },
+        {
+          "pregunta": "¿Qué animal marino es apodado 'el unicornio del mar'?",
+          "opciones": ["Narval", "Beluga", "Orca", "Delfín"],
+          "respuesta": "Narval"
+        },
+        {
+          "pregunta": "¿Qué animal puede regenerar su corazón y parte de su cerebro?",
+          "opciones": ["Axolote", "Estrella de mar", "Pulpo", "Lagarto"],
+          "respuesta": "Axolote"
+        }
+      ]
+    }
+  }
+}

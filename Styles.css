@@ -1,0 +1,289 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #ffffff;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden; /* evita scrollbar */
+}
+
+#screen-category h2 {
+  margin-top: 100px; /* lo bajas */
+  margin-bottom: 20px; /* espacio con las islas */
+  color: black; /* para que contraste bien */
+}
+
+#map-container {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: auto;
+}
+
+#map-bg {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+.island {
+  position: absolute;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.25s ease;
+  transform: translateY(-35px); /* 👈 sube todas las islas */
+}
+
+.island:hover {
+  transform: scale(1);
+}
+
+/* Islas más grandes */
+.island img {
+  width: 150px;   /* antes 100px */
+  height: auto;
+}
+
+.island span {
+  display: block;
+  margin-top: 15px;   /* 👈 baja más el texto debajo */
+  font-weight: bold;
+  color: black;
+  text-shadow: 1px 1px 3px white;
+}
+
+.screen {
+  display: none;
+  text-align: center;
+  width: 100%;
+  max-width: 900px;
+  padding: 20px;
+}
+
+.screen.active {
+  display: block;
+}
+
+h1, h2, p {
+  margin-bottom: 20px;
+  color: black;
+}
+
+button {
+  padding: 15px 25px;
+  font-size: 20px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  color: white;
+  transition: transform 0.2s ease, background 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+/* Contenedor solo para los botones de dificultad */
+.difficulty-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+/* Estilos para los botones de dificultad */
+.btn-diff {
+  padding: 16px 40px;
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Colores distintos */
+.btn-diff.easy { background: #28a745; }
+.btn-diff.medium { background: #ff9800; }
+.btn-diff.hard { background: #dc3545; }
+
+.btn-diff:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+/* Contenedor de botones */
+.question-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+/* Botones de preguntas */
+.btn-question {
+  padding: 16px 40px;
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-question:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+/* Tonos distintos de azul */
+.btn-question.q10 { background: #1E90FF; } /* Azul medio */
+.btn-question.q15 { background: #007BFF; } /* Azul fuerte */
+.btn-question.q20 { background: #0056B3; } /* Azul más oscuro */
+
+
+/* Botón Volver (esquina inferior derecha) */
+button.back-btn {
+  position: fixed;   /* 🔥 esto lo saca del flujo del flex */
+  bottom: 20px;
+  right: 20px;
+  padding: 12px 28px;
+  font-size: 18px;
+  font-weight: bold;
+  background: #007bff;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+button.back-btn:hover {
+  background: #0056b3;
+  transform: scale(1.05);
+}
+
+/* Colores para las pantallas normales */
+.screen button {
+  background: #1368CE; /* Azul */
+  margin: 10px;
+}
+
+/* =====================
+   Estilo de las respuestas
+   ===================== */
+#answers {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.answer-btn {
+  height: 120px;
+  font-size: 22px;
+  font-weight: bold;
+  border-radius: 16px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.answer-btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+}
+
+
+/* Colores estilo Kahoot */
+.answer-btn:nth-child(1) { background: #e21b3c; }  /* Rojo */
+.answer-btn:nth-child(2) { background: #1368CE; }  /* Azul */
+.answer-btn:nth-child(3) { background: #26890c; }  /* Verde */
+.answer-btn:nth-child(4) { background: #ffa602; }  /* Amarillo */
+
+/* Responsive */
+@media (max-width: 600px) {
+  #answers {
+    grid-template-columns: 1fr;
+  }
+  .answer-btn {
+    height: 80px;
+    font-size: 18px;
+  }
+}
+
+#game-stats {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.stat-box {
+  font-size: 20px;
+  font-weight: bold;
+  background: #1368CE;  /* azul más vivo */
+  padding: 8px 15px;
+  border-radius: 12px;
+  color: white;
+}
+
+
+/* Vidas (corazones) */
+.heart {
+  font-size: 24px;
+  color: #e21b3c; /* rojo vivo */
+}
+
+.heart.lost {
+  color: #555; /* apagado cuando pierdes una vida */
+}
+
+/* ======================
+   Layout de la pantalla del juego
+   ====================== */
+.game-layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 100px; /* espacio debajo de la barra de stats */
+}
+
+.game-image img {
+  width: 220px;   /* hazla más grande */
+  max-height: 250px;
+  object-fit: contain;
+  margin-right: 30px;
+  animation: swing 3s infinite ease-in-out;
+}
+
+@keyframes swing {
+  0% { transform: rotate(0deg); }
+  25% { transform: rotate(3deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(-3deg); }
+  100% { transform: rotate(0deg); }
+}
+
+
+
+.game-content {
+  flex: 1;
+}
+
+#question-text {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #222;
+}
+

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Proyecto</title>
+  <link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+<!-- Pantalla Inicio -->
+<section id="screen-start" class="screen active">
+  <h1>Proyecto</h1>
+  <button onclick="goToScreen('screen-category')">Jugar</button>
+</section>
+
+
+<!-- Selección de Categoría -->
+<section id="screen-category" class="screen">
+  <h2>Elige tu Isla</h2>
+
+  <div id="map-container">
+    <!-- Fondo del mapa con las líneas -->
+    <img src="mapa.png" alt="Mapa del tesoro" id="map-bg">
+
+    <!-- Islas posicionadas encima -->
+<!-- Cultura General -->
+<div class="island" style="top: 100px; left: 50px;" onclick="selectCategory('cultura_general')">
+  <img src="isla1.png" alt="Isla Cultura General">
+  <span>Cultura General</span>
+</div>
+
+<!-- Cine -->
+<div class="island" style="top: 150px; left: 380px;" onclick="selectCategory('cine')">
+  <img src="isla2.png" alt="Isla Cine">
+  <span>Cine</span>
+</div>
+
+<!-- Fauna y Flora -->
+<div class="island" style="top: 300px; left: 650px;" onclick="selectCategory('fauna_flora')">
+  <img src="isla3.png" alt="Isla Fauna y Flora">
+  <span>Fauna y Flora</span>
+</div>
+
+<!-- Matemáticas -->
+<div class="island" style="top: 330px; left: 230px;" onclick="selectCategory('matematicas')">
+  <img src="isla4.png" alt="Isla Matemáticas" />
+  <span>Matemáticas</span>
+</div>
+
+
+  <button  class="back-btn" onclick="goToScreen('screen-start')">Volver</button>
+</section>
+
+
+<!-- Selección de Dificultad -->
+<section id="screen-difficulty" class="screen">
+  <h2>Selecciona la Dificultad</h2>
+
+  <div class="difficulty-buttons">
+<button onclick="selectDifficulty('facil')">Fácil</button>
+<button onclick="selectDifficulty('medio')">Medio</button>
+<button onclick="selectDifficulty('dificil')">Difícil</button>
+  </div>
+
+  
+
+  <button class="back-btn" onclick="goToScreen('screen-category')">Volver</button>
+</section>
+ 
+
+
+  <!-- Selección de Cantidad de Preguntas -->
+<section id="screen-questions" class="screen">
+  <h2>Cantidad de Preguntas</h2>
+
+<div class="question-buttons">
+  <button class="btn-question q5" onclick="setQuestions(5)">5</button>
+  <button class="btn-question q15" onclick="setQuestions(15)">15</button>
+  <button class="btn-question q20" onclick="setQuestions(20)">20</button>
+</div>
+
+
+  <button class="back-btn" onclick="goToScreen('screen-difficulty')">Volver</button>
+</section>
+
+
+  <!-- Juego -->
+<section id="screen-game" class="screen">
+  <!-- Barra de stats -->
+  <div id="game-stats">
+    <div id="score" class="stat-box">Puntos: 0</div>
+    <div id="lives" class="stat-box">❤️ ❤️ ❤️</div>
+  </div>
+
+  <!-- Layout principal -->
+  <div class="game-layout">
+    <!-- Imagen del tema -->
+    <div class="game-image">
+      <img id="theme-image" src="default.png" alt="Tema del juego">
+    </div>
+
+    <!-- Pregunta + respuestas -->
+    <div class="game-content">
+      <h2 id="question-text">Aquí va la pregunta</h2>
+<div id="answers"></div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Resultado inmediato (overlay tipo pop-up) -->
+<section id="screen-result" class="screen result-popup">
+  <h2 id="result-message">¡Correcto!</h2>
+  <button onclick="nextQuestion()" class="btn-next">Siguiente</button>
+</section>
+
+  <!-- Pantalla final -->
+  <section id="screen-final" class="screen">
+    <h2>Juego Terminado</h2>
+    <p id="final-score">Puntos totales: 0</p>
+    <button onclick="restartGame()">Volver al Inicio</button>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
